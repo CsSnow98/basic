@@ -73,7 +73,7 @@
 一个2结点包含一个元素和两个孩子
 一个3结点包含一小一大两个元素和三个孩子
 
-## [红黑树](https://www.cnblogs.com/yangecnu/p/Introduce-Red-Black-Tree.html)
+## [红黑树](https://www.cnblogs.com/skywang12345/p/3245399.html)
 
 * 查找时间复杂度O(logn)，插入和删除时间复杂度O(logn)
 
